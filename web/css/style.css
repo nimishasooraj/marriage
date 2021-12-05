@@ -383,8 +383,7 @@ width: 100%;
 .bride-image-w3layouts,
 .groom-image-w3layouts {
   background-size: cover;
-  min-height: 378px;
-}
+ height:35em;
 
 .groom-bride-grid h4 span {
   font-size: 15px;
