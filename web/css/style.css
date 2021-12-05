@@ -655,7 +655,7 @@ ul.short_ls li {
   }
   .vtimeline-block {
     width: 85%;
-    margin-left: 15%;
+    margin-left: 15%;top: 500px;
   }
   .vtimeline-block:after {
     left: auto;
