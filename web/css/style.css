@@ -37,9 +37,9 @@ a:hover {
 
   background-color:rgb(247, 175, 211);
     padding-top: 20px;
-    padding-right: 85px;
+    padding-right: 80px;
     padding-bottom: 160px;
-    padding-left: 105px;
+    padding-left: 95px;
     color:rgb(247, 196, 234);
     border-width: 20px 20px 20px 20px;
     border-color: rgb(250, 198, 228);
@@ -510,7 +510,7 @@ ul.short_ls li {
 }
 
 .examples {
-  width: 60%;
+  width: 50%;
   margin: 0px auto;
 }
 
