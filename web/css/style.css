@@ -526,6 +526,7 @@ ul.short_ls li {
 
 /*-- story-- */
 
+
 .vtimeline {
   position: relative;
   padding: 30px;
@@ -680,7 +681,6 @@ ul.short_ls li {
     transform: translateX(100%);
   }
 }
-
 
 /*--// story-- */
 
