@@ -530,7 +530,7 @@ ul.short_ls li {
 .vtimeline {
   position: relative;
   padding: 30px;
-	top:20em;
+	top:100em;
   overflow: hidden;
 }
 
