@@ -536,7 +536,7 @@ ul.short_ls li {
 
 .vtimeline:before {
   content: '';
-  position: absolute;
+ 
   height: 100%;
   width: 4px;
   background: #ffa2df;
