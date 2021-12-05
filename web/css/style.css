@@ -539,7 +539,7 @@ ul.short_ls li {
   height: 100%;
   width: 4px;
   background: #ffa2df;
-  top: 0;
+  top: 100px;
   bottom: 0;
   left: 0;
   right: 0;
@@ -549,6 +549,7 @@ ul.short_ls li {
 .vtimeline-point {
   position: relative;
   width: 100%;
+	top:100px;
   margin-bottom: 30px;
 }
 
